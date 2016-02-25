@@ -1,1 +1,2 @@
 Second file content
+Second line in second file
