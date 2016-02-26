@@ -2,3 +2,4 @@ Some conflict here
 Hello world!
 second commit
 diff
+Some other conflict here
