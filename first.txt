@@ -1,5 +1,5 @@
 Some conflict here
 Hello world!
 second commit
-MASTER CHANGE FOR FEATURE300
+diff
 Some other conflict here
