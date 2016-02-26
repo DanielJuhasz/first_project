@@ -4,3 +4,4 @@ second commit
 diff
 Some other conflict here
 Line added on feature400
+Before content
