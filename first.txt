@@ -3,4 +3,4 @@ Hello world!
 second commit
 diff
 Some other conflict here
-Added for feature400
+Line added on feature400
